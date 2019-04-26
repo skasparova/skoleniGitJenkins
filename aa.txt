@@ -1,4 +1,4 @@
-NultyParametr "C:\_GIT\skoleniGitJenkins\local_run.bat" 
++++NultyParametr "C:\_GIT\skoleniGitJenkins\local_run.bat" 
 PrnviParametr  
 Local date is [2019-04-26 11:43:05.940] 
  Volume in drive C is Windows
