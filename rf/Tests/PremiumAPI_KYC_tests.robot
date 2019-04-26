@@ -30,7 +30,7 @@ KYC_TC_KYC_Cust1_App5
     [Tags]  KYC  ukazka
     Initializing token  Cust1  App5
     Login and receive the access token  token  &
-    Run API test  ${SOAPUI_PATH}  accessToken="${accessToken}"  ..\\soapui\\KYC-soapui-project.xml  TC_KYC_Cust1_App5
+    Run API test  ${SOAPUI_PATH}  accessToken="${accessToken}"  ..\\soapui\\KYC-soapui-project-test.xml  TC_KYC_Cust1_App5
 
 KYC_TC_KYC_Cust1_App5_v2
     [Tags]  KYC
@@ -43,7 +43,7 @@ KYC_TC_KYC_Cust11_App5_v2
     [Tags]  KYC
     Initializing token  Cust11  App5
     Login and receive the access token  token  &
-    Run API test  ${SOAPUI_PATH}  accessToken="${accessToken}"  ..\\soapui\\KYC-soapui-project.xml  TC_KYC_Cust11_App5_v2
+    Run API test  ${SOAPUI_PATH}  accessToken="${accessToken}"  ..\\soapui\\KYC-soapui-project-test.xml  TC_KYC_Cust11_App5_v2
 
 
 KYC_TC_KYC_Cust13_App5_v2
@@ -51,7 +51,7 @@ KYC_TC_KYC_Cust13_App5_v2
 	[Documentation]  AP-11 , u cizince se nevrací rodne cislo
     Initializing token  Cust13  App5
     Login and receive the access token  token  &
-    Run API test  ${SOAPUI_PATH}  accessToken="${accessToken}"  ..\\soapui\\KYC-soapui-project.xml  TC_KYC_Cust13_App5_v2
+    Run API test  ${SOAPUI_PATH}  accessToken="${accessToken}"  ..\\soapui\\KYC-soapui-project..bak.xml  TC_KYC_Cust13_App5_v2
 
 KYC_TC_KYC_Cust2_App7
     [Tags]  KYC
